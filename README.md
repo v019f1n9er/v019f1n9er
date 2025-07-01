@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%D11F33&lines=I+just+decided+to+mess+around+with+the+profile's+README+file)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%d32243&lines=I+just+decided+to+mess+around+with+the+profile's+README+file)](https://git.io/typing-svg)
