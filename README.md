@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFBC2400&lines=I+just+wanted+to...)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%DCBC143C&lines=I+just+wanted+to...)](https://git.io/typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230000FF&lines=I+just+wanted+to...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0e5cc4FF&lines=I+just+wanted+to...)](https://git.io/typing-svg)
 <!-- #DC + BC + 143C -->
