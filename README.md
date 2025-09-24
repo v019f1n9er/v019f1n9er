@@ -1,4 +1,4 @@
-## Zdarova
+## Nu zdarova
 
 <!--
 **v019f1n9er/v019f1n9er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
